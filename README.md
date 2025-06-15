@@ -1,7 +1,24 @@
 > [!WARNING]
-> Still **Work In Progress**. A couple of options are incomplete, cause I'm not really sure how they are supposed to look.
+> A couple of options are incomplete (set to #FF0000, bright red), cause I'm not really sure how they are supposed to look.
 
 # Catppuccin Mocha theme for MilkyTracker
-An inofficial port of the [Catppuccin](https://catppuccin.com) colorscheme for [MilkyTracker](https://milkytracker.org), specifically the **Mocha** flavor.
+An inofficial port of the [Catppuccin](https://catppuccin.com) colorscheme for [MilkyTracker](https://milkytracker.org).
 
-![screenshot](screenshot.png)
+## Import
+- **Config** > **layout** > <u>Colors</u> > **[I]** (import)
+- Click **apply**
+
+## [template.mct](template.mct)
+This file visualizes what exact colors I chose from the [official palette](https://catppuccin.com/palette). To make your own spin, replace the color names in the square brackets, then replace them (with the square brackets) to the respective hex code. It must be ALL-CAPS and have no leading #.
+
+![screenshot](mocha.png)
+_Mocha_
+
+![screenshot](macchiato.png)
+_Macchiato_
+
+![screenshot](frappe.png)
+_Frappé_
+
+![screenshot](latte.png)
+_Latte_
